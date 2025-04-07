@@ -12,7 +12,7 @@ This is a data visualization and analysis project examining police stop data bef
 
 ## 📁 Project Files
 - `Data cleaning and pre-processing.ipynb`: This notebook focuses on preparing the raw Colorado police stop dataset for analysis by performing thorough data cleaning and preprocessing, including handling missing values, removing duplicates, standardizing column names, converting data types, filtering relevant records, encoding categorical variables, and creating new derived features to facilitate accurate and meaningful visualizations and statistical analysis.
-- 'Data visulization.ipynb': Visualized the data using matplotlib and seaborn.
+- `Data visulization.ipynb`: Visualized the data using matplotlib and seaborn.
 - `Project detailed report.pdf`: Full written report of the analysis.
 
 ## 🔍 Summary
