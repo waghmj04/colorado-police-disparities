@@ -3,7 +3,7 @@ Visualization project analyzing racial and gender disparities in police stops be
 This project investigates racial and gender disparities in police stops within the state of Colorado, with a specific focus on the period before and after the legalization of recreational marijuana in 2013. Using a dataset containing over 2 million records, the analysis involved extensive data cleaning, preprocessing, and visualization using Python in Jupyter Notebook.
 
 ## 🎥 Recorded Presentation
-Watch the presentation here:[Watch recorded presentation here](https://drive.google.com/file/d/1DdGuWG25IcJU3oCD5lDyCpvJFrw6m77I/view?usp=drive_link).
+Watch the presentation here: [Watch recorded presentation here](https://drive.google.com/file/d/1DdGuWG25IcJU3oCD5lDyCpvJFrw6m77I/view?usp=drive_link).
 
 ## 📊 Technologies Used
 - Python (Pandas, Matplotlib, Seaborn)
